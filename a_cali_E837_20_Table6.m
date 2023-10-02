@@ -2,7 +2,7 @@
 
 %% Load mat file
 
-load matlab.mat;
+load E837_20_Table6_a_b_coeff.mat;
 
 %% Extracting coefficients
 C1 = E837_20_NUS_Poly_a.C1(8);
