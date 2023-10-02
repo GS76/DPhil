@@ -1,0 +1,1 @@
+The spreadsheets are examples of hole and stress depth profiles that can be opened in the "a_cali_E837_20_Table6.m" program to extract the lower triangular matrix of the "a" calibration coefficient.
