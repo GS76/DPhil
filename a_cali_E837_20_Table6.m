@@ -24,6 +24,10 @@ C15 = E837_20_NUS_Poly_a.C15(8);
 %% Define the constant input variable D
 D = 5.13; % Example value of D
 
+%% The combinations numeric array is formulated by populating a spreadsheet
+% with the hole depth data along with the stress depth data. See example
+% below based on the depths from ASTM E837-13a.
+
 % combinations = [
 % 0.05,0.050;%h1and H11
 % 0.1,0.050;%h2and H21
